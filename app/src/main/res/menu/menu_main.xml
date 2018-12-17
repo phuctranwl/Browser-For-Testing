@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/action_view_content"
+        android:orderInCategory="100"
+        android:title="View content"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_view_console"
+        android:orderInCategory="100"
+        android:title="View console"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="Settings"
+        app:showAsAction="never" />
+</menu>

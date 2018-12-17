@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Browser for testing</string>
+    <string name="loading">Loading...</string>
+    <string name="link_google">https://google.com</string>
+    <string name="blank">about:blank</string>
+    <string name="feature_will_be_available">This feature will be available soon</string>
+    <string name="empty">Empty</string>
+    <array name="request_option">
+        <item>GET</item>
+        <item>POST</item>
+    </array>
+    <string name="get">GET</string>
+    <string name="post">POST</string>
+</resources>
